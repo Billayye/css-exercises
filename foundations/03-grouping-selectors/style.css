@@ -1,0 +1,13 @@
+.click, .avoid {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.click {
+    background-color: black;
+    color: white;
+}
+
+.avoid {
+    background-color: yellow;
+}
