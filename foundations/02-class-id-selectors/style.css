@@ -1,0 +1,19 @@
+.odd-numbered-element {
+    background-color: hsl(352, 70%, 80%);
+    font-family: Verdana, "DejuVu Sans", sans-serif;
+}
+
+.odd-numbered-element-varied {
+    font-size: 24px;
+}
+
+#second-element {
+    color: hsl(240, 80%, 60%);
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: hsl(120, 70%, 84%);
+    font-size: 24px;
+    font-weight: bold;
+}
